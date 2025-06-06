@@ -3,3 +3,4 @@
 read -p "Enter the Directory name: " dir
 
 mkdir $dir
+
